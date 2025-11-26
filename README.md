@@ -1,2 +1,4 @@
 # Cohort Project: Customer Churn Analysis
 The ConnectTel Customer Churn Prediction initiative aimed to build a reliable machine learning model capable of identifying customers most likely to discontinue their service. This was accomplished through a structured and comprehensive workflow that included data cleaning, exploratory data analysis (EDA), feature engineering, model experimentation, feature scaling, handling class imbalance, and systematic hyperparameter tuning. Each step was designed to improve model accuracy and strengthen the predictive power of the final solution.
+
+The project successfully produced a robust churn prediction model, with XGBoost showing the highest potential for deployment. While opportunities remain for further optimizing the balance between precision and recall, the current model offers a solid analytical foundation. These insights can now be leveraged by ConnectTel to design more targeted and proactive customer retention initiatives.
