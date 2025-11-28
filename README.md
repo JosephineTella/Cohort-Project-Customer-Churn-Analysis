@@ -60,13 +60,13 @@ Among these, XGBoost + RandomForest_Importance provides the highest F1 Score and
 ### SHAP Analysis
 SHAP feature-impact analysis highlighted several major predictors of churn:
 
-  -  Month-to-month contracts and higher monthly charges were strong indicators of churn.
+  -  Monthly charges and contract types were strong indicators of churn.
 
-  -  Tenure showed that newer customers are significantly more likely to leave.
+  -  Tenure and toatal charges showed that newer customers are significantly more likely to leave.
 
   -  Lack of tech support and online security services also contributed to churn risk.
     
-These insights provide action-ready direction for targeted retention programs.
+These insights provide insights for targeted retention programs.
 
 ### Conclusion
 
