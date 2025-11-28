@@ -57,6 +57,17 @@ The top three performing models were:
 
 Among these, XGBoost + RandomForest_Importance provides the highest F1 Score and accuracy, making it the best model for churn prediction.
 
+### SHAP Analysis
+SHAP feature-impact analysis highlighted several major predictors of churn:
+
+  -  Month-to-month contracts and higher monthly charges were strong indicators of churn.
+
+  -  Tenure showed that newer customers are significantly more likely to leave.
+
+  -  Lack of tech support and online security services also contributed to churn risk.
+    
+These insights provide action-ready direction for targeted retention programs.
+
 ### Conclusion
 
 Based on model evaluation, XGBoost is the recommended model for ConnectTel’s churn prediction pipeline. It offers the best balance of accuracy, recall, and F1 score, making it the most effective tool for driving data-informed customer retention strategies.
